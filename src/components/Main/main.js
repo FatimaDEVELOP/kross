@@ -113,7 +113,7 @@ const Main = () => {
                         borderRadius: "40px",
                         padding: "25px 25px 35px 30px",
                         width: "190px",
-                        height: "270px",
+                        height: "300px",
                         marginTop: "60px",
                       }}
                     >

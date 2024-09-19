@@ -2,27 +2,27 @@
   "cross": [
     {
       "id": "1",
-      "name": "Мужские Кроссовки Nike Blazer Mid Suede",
-      "price": "12 999 руб.",
-      "image": "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_2000,h_2000/global/372967/01/sv01/fnd/PNA/fmt/png/Cali-Silver-NYC-Women's-Sneakers"
+      "name": "Мужские кроссовки Tommy Hilfiger Talto на каждый день",
+      "price": "$93",
+      "image": "https://m.media-amazon.com/images/I/61dZ4r3XSQL._AC_SR768,1024_.jpg"
     },
     {
       "id": "2",
-      "name": "Мужские Кроссовки Under Armour Curry 8",
-      "price": "12 999 руб.",
-      "image": "https://static.ftshp.digital/img/p/1/1/9/0/8/9/0/1190890.jpg"
+      "name": "Мужские кроссовки Tommy Hilfiger Lokni на каждый день",
+      "price": "$57",
+      "image": "https://m.media-amazon.com/images/I/71yxJsmhKUL._SX700_.jpg"
     },
     {
       "id": "3",
-      "name": "Мужские Кроссовки Under Armour Curry 8",
-      "price": "12 999 руб.",
-      "image": "https://static.ftshp.digital/img/p/1/1/9/0/8/9/0/1190890.jpg"
+      "name": "Кроссовки Puma ANZARUN LITE для бега",
+      "price": "9400 сом",
+      "image": "https://m.media-amazon.com/images/I/61vNQl0ONsL._SX700_.jpg"
     },
     {
       "id": "4",
-      "name": "Мужские Кроссовки Under Armour Curry 8",
-      "price": "12 999 руб.",
-      "image": "https://static.ftshp.digital/img/p/1/1/9/0/8/9/0/1190890.jpg"
+      "name": "Кроссовки Puma ANZARUN LITE для бега",
+      "price": "94$",
+      "image": "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,e_sharpen/global/371128/62/sv01/fnd/TUR/w/1000/h/1000/fmt/png.jpg"
     },
     {
       "id": "5",
@@ -32,7 +32,7 @@
     },
     {
       "id": "6",
-      "name": "Мужские Кроссовки Under Armour Curry 8",
+      "name": "",
       "price": "12 999 руб.",
       "image": "https://static.ftshp.digital/img/p/1/1/9/0/8/9/0/1190890.jpg"
     },
@@ -41,110 +41,6 @@
       "name": "Мужские Кроссовки Under Armour Curry 8",
       "price": "12 999 руб.",
       "image": "https://static.ftshp.digital/img/p/1/1/9/0/8/9/0/1190890.jpg"
-    },
-    {
-      "id": "8",
-      "name": "Мужские Кроссовки Under Armour Curry 8",
-      "price": "12 999 руб.",
-      "image": "https://static.ftshp.digital/img/p/1/1/9/0/8/9/0/1190890.jpg"
-    },
-    {
-      "id": "9",
-      "name": "Мужские Кроссовки Under Armour Curry 8",
-      "price": "12 999 руб.",
-      "image": "https://static.ftshp.digital/img/p/1/1/9/0/8/9/0/1190890.jpg"
-    },
-    {
-      "id": "10",
-      "name": "Мужские Кроссовки Under Armour Curry 8",
-      "price": "12 999 руб.",
-      "image": "https://static.ftshp.digital/img/p/1/1/9/0/8/9/0/1190890.jpg"
-    },
-    {
-      "id": "11",
-      "name": "Мужские Кроссовки Under Armour Curry 8",
-      "price": "12 999 руб.",
-      "image": "https://static.ftshp.digital/img/p/1/1/9/0/8/9/0/1190890.jpg"
-    },
-    {
-      "id": "12",
-      "name": "Мужские Кроссовки Under Armour Curry 8",
-      "price": "12 999 руб.",
-      "image": "https://static.ftshp.digital/img/p/1/1/9/0/8/9/0/1190890.jpg"
-    },
-    {
-      "id": "13",
-      "name": "Мужские Кроссовки Under Armour Curry 8",
-      "price": "12 999 руб.",
-      "image": "https://static.ftshp.digital/img/p/1/1/9/0/8/9/0/1190890.jpg"
-    },
-    {
-      "id": "14",
-      "name": "Мужские Кроссовки Under Armour Curry 8",
-      "price": "12 999 руб.",
-      "image": "https://static.ftshp.digital/img/p/1/1/9/0/8/9/0/1190890.jpg"
-    },
-    {
-      "id": "15",
-      "name": "Мужские Кроссовки Under Armour Curry 8",
-      "price": "12 999 руб.",
-      "image": "https://static.ftshp.digital/img/p/1/1/9/0/8/9/0/1190890.jpg"
-    },
-    {
-      "id": "16",
-      "name": "Мужские Кроссовки Under Armour Curry 8",
-      "price": "12 999 руб.",
-      "image": "https://static.ftshp.digital/img/p/1/1/9/0/8/9/0/1190890.jpg"
-    },
-    {
-      "id": "17",
-      "name": "Мужские Кроссовки Under Armour Curry 8",
-      "price": "12 999 руб.",
-      "image": "https://static.ftshp.digital/img/p/1/1/9/0/8/9/0/1190890.jpg"
-    },
-    {
-      "id": "18",
-      "name": "Мужские Кроссовки Under Armour Curry 8",
-      "price": "12 999 руб.",
-      "image": "https://static.ftshp.digital/img/p/1/1/9/0/8/9/0/1190890.jpg"
-    }
-  ],
-  "basket": [
-    {
-      "id": "1",
-      "name": "Мужские Кроссовки Nike Blazer Mid Suede",
-      "price": "12 999 руб.",
-      "image": "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_2000,h_2000/global/372967/01/sv01/fnd/PNA/fmt/png/Cali-Silver-NYC-Women's-Sneakers"
-    },
-    {
-      "id": "1",
-      "name": "Мужские Кроссовки Nike Blazer Mid Suede",
-      "price": "12 999 руб.",
-      "image": "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_2000,h_2000/global/372967/01/sv01/fnd/PNA/fmt/png/Cali-Silver-NYC-Women's-Sneakers"
-    },
-    {
-      "id": "1",
-      "name": "Мужские Кроссовки Nike Blazer Mid Suede",
-      "price": "12 999 руб.",
-      "image": "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_2000,h_2000/global/372967/01/sv01/fnd/PNA/fmt/png/Cali-Silver-NYC-Women's-Sneakers"
-    },
-    {
-      "id": "1",
-      "name": "Мужские Кроссовки Nike Blazer Mid Suede",
-      "price": "12 999 руб.",
-      "image": "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_2000,h_2000/global/372967/01/sv01/fnd/PNA/fmt/png/Cali-Silver-NYC-Women's-Sneakers"
-    },
-    {
-      "id": "1",
-      "name": "Мужские Кроссовки Nike Blazer Mid Suede",
-      "price": "12 999 руб.",
-      "image": "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_2000,h_2000/global/372967/01/sv01/fnd/PNA/fmt/png/Cali-Silver-NYC-Women's-Sneakers"
-    },
-    {
-      "id": "1",
-      "name": "Мужские Кроссовки Nike Blazer Mid Suede",
-      "price": "12 999 руб.",
-      "image": "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_2000,h_2000/global/372967/01/sv01/fnd/PNA/fmt/png/Cali-Silver-NYC-Women's-Sneakers"
     }
   ]
 }
